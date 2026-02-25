@@ -6,7 +6,7 @@
 volatile bool needpush=false;
 const char* ap_ssid = "ESP-AP";
 const char* ap_password = "12345678";
-const char* serverUrl = "https://net-logger-1.onrender.com/devices";
+const char* serverUrl = "https://serverapi.net";
 const char* sta_ssid = "vivo Y300 5G";
 const char* sta_password = "1234567890";
 
